@@ -1,6 +1,7 @@
 # tcpdump
 
-[![Build Status](https://travis-ci.org/the-tcpdump-group/tcpdump.svg?branch=master)](https://travis-ci.org/the-tcpdump-group/tcpdump)
+[![Build Status](https://travis-ci.org/the-tcpdump-group/tcpdump.svg?branch=master)]
+(https://travis-ci.org/the-tcpdump-group/tcpdump)
 
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/the-tcpdump-group/tcpdump?branch=master&svg=true)](https://ci.appveyor.com/project/guyharris/tcpdump)
 
