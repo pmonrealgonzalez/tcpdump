@@ -1,10 +1,10 @@
 # tcpdump
 
-[![Build Status](https://travis-ci.org/the-tcpdump-group/tcpdump.svg?branch=master)]
-(https://travis-ci.org/the-tcpdump-group/tcpdump)
+#fixed links
 
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/the-tcpdump-group/tcpdump?branch=master&svg=true)]
-(https://ci.appveyor.com/project/guyharris/tcpdump)
+[![Build Status](https://travis-ci.org/the-tcpdump-group/tcpdump.svg?branch=master)](https://travis-ci.org/the-tcpdump-group/tcpdump)
+
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/the-tcpdump-group/tcpdump?branch=master&svg=true)](https://ci.appveyor.com/project/guyharris/tcpdump)
 
 To report a security issue please send an e-mail to security@tcpdump.org.
 
